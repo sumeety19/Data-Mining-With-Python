@@ -182,5 +182,4 @@ optional arguments:
                         locations.txt
   --version             show program's version number and exit
 
-Developed by Paul Pidou.
-```
+Developed by Sumeet Yadav.
